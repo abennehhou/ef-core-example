@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Pokemon Company",
+    "creationDate": "2016-01-01T00:00:00",
+    "status": 2,
+    "contacts": [
+      {
+        "firstName": "Pika",
+        "lastName": "Chu",
+        "emailAddress": "pikachu@pokemon.com",
+        "phoneNumber": "0123456789"
+      },
+      {
+        "firstName": "Mew",
+        "lastName": "Two",
+        "emailAddress": "mewtwo@pokemon.com",
+        "phoneNumber": "0123456788"
+      }
+    ]
+  },
+  {
+    "name": "Digimon Company",
+    "creationDate": "2016-02-03T00:00:00",
+    "status": 1,
+    "contacts": [
+      {
+        "firstName": "Ange",
+        "lastName": "Mon",
+        "emailAddress": "angemon@digimon.com",
+        "phoneNumber": "0123456787"
+      },
+      {
+        "firstName": "Gato",
+        "lastName": "Mon",
+        "emailAddress": "gatomon@digimon.com",
+        "phoneNumber": "0123456786"
+      },
+      {
+        "firstName": "Biyo",
+        "lastName": "Mon",
+        "emailAddress": "biyomon@digimon.com",
+        "phoneNumber": "0123456786"
+      }
+    ]
+  }
+]

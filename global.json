@@ -1,0 +1,9 @@
+{
+    "projects": [
+        "accounts-api",
+        "accounts-api-tests"
+    ],
+    "sdk": {
+        "version": "1.0.0-preview3-final"
+    }
+}
